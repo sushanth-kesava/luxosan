@@ -92,7 +92,6 @@ Automated Floor Cleaning While in Motion:
           As the pod navigates across the floor, the underbody mop deploys recycled water to clean and sanitize the area, reducing the need for additional manual labor or chemical cleaners. 
 
 **Docking Station Highlights:**
-            
             LuxoSan's smart docking station is a marvel of minimalist engineering, enabling fully autonomous operation without disrupting the aesthetic or spatial design of the venue: 
 
 Flush-Mounted Design with Magnetic Auto-Alignment:
