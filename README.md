@@ -41,7 +41,7 @@ Sharmila Priyadarshini – Hardware & Integration Lead
             Responsible for circuit wiring, component integration, and power management to ensure smooth hardware functionality and system stability.
 Together, we strive to create smart hygiene solutions that blend automation, design, and sustainability to meet the needs of future-ready public spaces.
 
-**Key Features** 
+**Key Features:** 
 
 LuxoSan combines sophisticated engineering with elegant design, offering a range of intelligent features that prioritize both hygiene and luxury. Each element is carefully crafted to deliver a premium user experience while ensuring optimal efficiency and minimal human intervention. 
 
@@ -69,7 +69,7 @@ Luxury Scent Diffuser Module:
 Cloud-Based Dashboard:
           For operators and facility managers, LuxoSan offers a powerful cloud dashboard that remotely tracks pod usage, water levels, battery status, and maintenance needs. This smart backend allows for data-driven decisions, preventive servicing, and seamless scalability across multiple locations. 
 
-**Technical Workflow **
+**Technical Workflow:**
 
 At the core of LuxoSan is a carefully orchestrated automation cycle that ensures efficient hand hygiene and floor sanitation with minimal user interaction. The system executes the following operations in a seamless flow: 
 
@@ -91,7 +91,7 @@ Greywater Repurposing for Mopping:
 Automated Floor Cleaning While in Motion:
           As the pod navigates across the floor, the underbody mop deploys recycled water to clean and sanitize the area, reducing the need for additional manual labor or chemical cleaners. 
 
-**Docking Station Highlights:**
+**Docking Station Highlights: **
             LuxoSan's smart docking station is a marvel of minimalist engineering, enabling fully autonomous operation without disrupting the aesthetic or spatial design of the venue: 
 
 Flush-Mounted Design with Magnetic Auto-Alignment:
